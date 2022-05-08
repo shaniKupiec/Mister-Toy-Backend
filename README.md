@@ -1,4 +1,4 @@
-# Mister To Backend
+# Mister Toy Backend
 
 <p>Toy app that allows the user to add, edit and remove toys</p>
 <p>Built using: Vue3, Vuex, Node.js, MongoDB</p>
