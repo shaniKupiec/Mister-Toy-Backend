@@ -1,6 +1,6 @@
 # Mister Toy Backend
 
-<p>Advanced Toy Store with Googale Maps and Socket.IO</p>
+<p>Advanced Toy Store with Google Maps and Socket.IO</p>
 <p>End to end application</p>
 <a href="https://github.com/shaniKupiec/Mister-Toy-Frontend" target="blank">Frontend Code</a>
 
