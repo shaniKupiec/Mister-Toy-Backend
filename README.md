@@ -2,6 +2,7 @@
 
 <p>Advanced Toy Store with Googale Maps and Socket.IO</p>
 <p>End to end application</p>
+<a href="https://github.com/shaniKupiec/Mister-Toy-Frontend" target="blank">Frontend Code</a>
 
 ## Backend Tech
 - Mongodb
@@ -20,5 +21,3 @@
 - Map with location of stores
 - Login, signup and logout
 - Chat rooms by topic
-
-<a href="https://github.com/shaniKupiec/Mister-Toy-Frontend" target="blank">Frontend Code</a>
